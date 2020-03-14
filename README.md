@@ -7,7 +7,7 @@ A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React
 ## Usage
 
 ```bash
-npx create-react-app --template tailwindcss-typescript
+npx create-react-app my-app --template tailwindcss-typescript
 ```
 
 ### Why craco?
