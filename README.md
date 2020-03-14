@@ -1,19 +1,26 @@
-# cra-template-tailwindcss
+# cra-template-tailwindcss-typescript
 
-A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app).
+A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
 
 > This template installs and sets up [Tailwind CSS](https://tailwindcss.com) and [craco](https://github.com/gsoft-inc/craco).
 
 ## Usage
 
 ```bash
-npx create-react-app --template tailwindcss
+npx create-react-app --template tailwindcss-typescript
 ```
 
 ### Why craco?
 
-[craco](https://github.com/gsoft-inc/craco) allows us to hook into the build process without ejecting or maintaining our own react-scripts fork. This way, we can utilize PostCSS to customize Tailwind for our project via our `tailwind.config.js` file.
+Refer to https://github.com/GeoffSelby/cra-template-tailwindcss/blob/master/README.md#why-craco
+
+## Credits
+
+This project was made possible thanks to the following projects.
+
+1. [GeoffSelby/cra-template-tailwindcss](https://github.com/GeoffSelby/cra-template-tailwindcss) - A streamlined Tailwind CSS template for Create React App (in JavaScript).
+2. [cra-template-typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript) - An official TypeScript template for create-react-app.
 
 ## License
 
-MIT © [Geoff Selby](https://geoffcodesthings.com)
+MIT © [Sung M. Kim](https://sung.codes)
