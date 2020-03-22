@@ -10,10 +10,6 @@ A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React
 npx create-react-app --template tailwindcss-typescript
 ```
 
-### Why craco?
-
-Refer to https://github.com/GeoffSelby/cra-template-tailwindcss/blob/master/README.md#why-craco
-
 ## Credits
 
 This project was made possible thanks to the following projects.
