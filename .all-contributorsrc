@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JagdCake",
+      "name": "Ivo Angelov",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28141754?v=4",
+      "profile": "https://www.jagdcake.com/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cra-template-tailwindcss-typescript",
+  "projectOwner": "dance2die",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
