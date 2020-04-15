@@ -19,14 +19,12 @@
       "npm-run-all": "^4.1.5"
     },
     "scripts": {
-      "env:dev": "cross-env NODE_ENV=development",
-      "env:prod": "cross-env NODE_ENV=production",
-      "build:css": "postcss src/styles/tailwind.css -o src/styles/index.css",
-      "watch:css": "postcss src/styles/tailwind.css -o src/styles/index.css --watch",
+      "build:css": "cross-env NODE_ENV=production postcss src/styles/tailwind.css -o src/styles/index.css",
+      "watch:css": "cross-env NODE_ENV=development postcss src/styles/tailwind.css -o src/styles/index.css --watch",
       "react-scripts:start": "sleep 5 && react-scripts start",
       "react-scripts:build": "react-scripts build",
-      "start": "run-p env:dev watch:css react-scripts:start",
-      "build": "run-s env:prod build:css react-scripts:build",
+      "start": "run-p watch:css react-scripts:start",
+      "build": "run-s build:css react-scripts:build",
       "test": "react-scripts test",
       "eject": "react-scripts eject"
     }
