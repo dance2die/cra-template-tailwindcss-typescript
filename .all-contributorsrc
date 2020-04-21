@@ -23,7 +23,16 @@
         "bug",
         "code"
       ]
-    }
+    },
+    {
+      "login": "jagreehal",
+      "name": "Jag Reehal",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/3634906?s=460&v=4",
+      "profile": "https://github.com/jagreehal",
+      "contributions": [
+        "code"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "projectName": "cra-template-tailwindcss-typescript",
