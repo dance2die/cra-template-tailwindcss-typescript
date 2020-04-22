@@ -1,6 +1,6 @@
 # cra-template-tailwindcss-typescript
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.jagdcake.com/"><img src="https://avatars3.githubusercontent.com/u/28141754?v=4" width="100px;" alt=""/><br /><sub><b>Ivo Angelov</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=JagdCake" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/rogerchi"><img src="https://avatars1.githubusercontent.com/u/625496?v=4" width="100px;" alt=""/><br /><sub><b>Roger Chi</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/issues?q=author%3Arogerchi" title="Bug reports">🐛</a> <a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=rogerchi" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jagreehal"><img src="https://avatars1.githubusercontent.com/u/3634906?v=4" width="100px;" alt=""/><br /><sub><b>Jag Reehal</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=jagreehal" title="Code">💻</a></td>
   </tr>
 </table>
 
