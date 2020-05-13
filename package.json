@@ -10,6 +10,14 @@
   ],
   "description": "A streamlined Tailwind CSS template for Create React App",
   "main": "template.json",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/dance2die/cra-template-tailwindcss-typescript"
@@ -24,5 +32,16 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "devDependencies": {
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "3.2.0",
+    "git-cz": "^4.3.1",
+    "husky": "^4.2.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
