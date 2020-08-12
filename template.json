@@ -1,13 +1,13 @@
 {
   "package": {
     "dependencies": {
-      "@testing-library/jest-dom": "^5.11.1",
-      "@testing-library/react": "^10.4.7",
-      "@testing-library/user-event": "^12.0.11",
-      "@types/node": "^14.0.24",
-      "@types/react": "^16.9.43",
+      "@testing-library/jest-dom": "^5.11.3",
+      "@testing-library/react": "^10.4.8",
+      "@testing-library/user-event": "^12.1.1",
+      "@types/node": "^14.0.27",
+      "@types/react": "^16.9.46",
       "@types/react-dom": "^16.9.8",
-      "@types/jest": "^26.0.5",
+      "@types/jest": "^26.0.9",
       "typescript": "~3.9.7",
       "cross-env": "^7.0.2",
       "postcss-cli": "^7.1.1",
