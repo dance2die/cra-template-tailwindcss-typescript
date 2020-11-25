@@ -17,7 +17,7 @@ module.exports = {
     // Options passed to PurgeCSS
     options: {
       // Whitelist specific selectors by name
-      // whitelist: [],
+      // safelist: [],
     },
   },
 }
