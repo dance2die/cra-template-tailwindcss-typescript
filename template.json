@@ -8,11 +8,13 @@
       "@types/react": "latest",
       "@types/react-dom": "latest",
       "@types/jest": "latest",
+      "autoprefixer": "10.x",
       "typescript": "4.x",
       "cross-env": "7.x",
+      "postcss": "8.x",
       "postcss-cli": "8.x",
       "postcss-preset-env": "6.x",
-      "tailwindcss": "1.x",
+      "tailwindcss": "2.x",
       "npm-run-all": "4.x"
     },
     "scripts": {
