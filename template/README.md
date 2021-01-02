@@ -2,7 +2,7 @@
 
 A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
 
-> This template installs and sets up [Tailwind CSS](https://tailwindcss.com) and [craco](https://github.com/gsoft-inc/craco).
+> This template installs and sets up [Tailwind CSS](https://tailwindcss.com) with TypeScript support.
 
 ## Usage
 
