@@ -33,6 +33,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "michaeldlfx",
+      "name": "Michael",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/24497482?v=4",
+      "profile": "https://github.com/michaeldlfx",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
