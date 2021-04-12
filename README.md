@@ -1,7 +1,9 @@
 # cra-template-tailwindcss-typescript
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A streamlined [Tailwind CSS v2.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
@@ -10,6 +12,24 @@ A streamlined [Tailwind CSS v2.0](https://tailwindcss.com) template for [Create 
 
 ```bash
 npx create-react-app my-app --template tailwindcss-typescript
+```
+
+### Experimental JIT mode
+
+You can enable [Just-in-Time "JIT" mode](https://tailwindcss.com/docs/just-in-time-mode) by uncommenting `mode: "jit"` in `tailwind.config.js`.
+
+**IMPORTANT**: Do **NOT** comment `purge` when you enable JIT mode, [otherwise your CSS will be empty!](https://tailwindcss.com/docs/just-in-time-mode#enabling-jit-mode)
+
+```js
+module.exports = {
+  // Uncomment the line below to enable the experimental Just-in-Time ("JIT") mode.
+  // 👇👇👇👇👇
+  // mode: "jit",
+  theme: {
+    extend: {},
+  },
+  // other options...
+};
 ```
 
 ## Credits
