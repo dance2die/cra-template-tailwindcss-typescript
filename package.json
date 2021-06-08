@@ -1,47 +1,48 @@
 {
-  "name": "cra-template-tailwindcss-typescript",
-  "version": "2.1.1",
-  "keywords": [
-    "react",
-    "create-react-app",
-    "template",
-    "tailwind",
-    "typescript"
-  ],
-  "description": "A streamlined Tailwind CSS template for Create React App",
-  "main": "template.json",
-  "scripts": {
-    "commit": "git-cz"
-  },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/dance2die/cra-template-tailwindcss-typescript"
-  },
-  "license": "MIT",
-  "engines": {
-    "node": ">=8"
-  },
-  "bugs": {
-    "url": "https://github.com/dance2die/cra-template-tailwindcss-typescript/issues"
-  },
-  "files": [
-    "template",
-    "template.json"
-  ],
-  "devDependencies": {
-    "commitizen": "^4.1.2",
-    "cz-conventional-changelog": "3.2.0",
-    "git-cz": "^4.7.0",
-    "husky": "^4.2.5"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
-  }
+	"name": "cra-template-tailwindcss-typescript",
+	"version": "2.1.1",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"template",
+		"tailwind",
+		"typescript"
+	],
+	"description": "A streamlined Tailwind CSS template for Create React App",
+	"main": "template.json",
+	"scripts": {
+		"commit": "git-cz",
+		"prepare": "husky install"
+	},
+	"husky": {
+		"hooks": {
+			"prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dance2die/cra-template-tailwindcss-typescript"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=8"
+	},
+	"bugs": {
+		"url": "https://github.com/dance2die/cra-template-tailwindcss-typescript/issues"
+	},
+	"files": [
+		"template",
+		"template.json"
+	],
+	"devDependencies": {
+		"commitizen": "^4.2.4",
+		"cz-conventional-changelog": "3.3.0",
+		"git-cz": "^4.7.6",
+		"husky": "^6.0.0"
+	},
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	}
 }
