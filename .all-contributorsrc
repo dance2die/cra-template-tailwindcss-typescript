@@ -42,6 +42,17 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "panalgin",
+      "name": "Mustafa YILDIZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12881878?v=4",
+      "profile": "https://github.com/panalgin",
+      "contributions": [
+        "test",
+        "projectManagement",
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
