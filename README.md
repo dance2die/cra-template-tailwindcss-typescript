@@ -1,9 +1,7 @@
 # cra-template-tailwindcss-typescript
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A streamlined [Tailwind CSS v2.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
@@ -56,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/rogerchi"><img src="https://avatars1.githubusercontent.com/u/625496?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Roger Chi</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/issues?q=author%3Arogerchi" title="Bug reports">🐛</a> <a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=rogerchi" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jagreehal"><img src="https://avatars1.githubusercontent.com/u/3634906?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jag Reehal</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=jagreehal" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/michaeldlfx"><img src="https://avatars3.githubusercontent.com/u/24497482?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/issues?q=author%3Amichaeldlfx" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/panalgin"><img src="https://avatars.githubusercontent.com/u/12881878?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mustafa YILDIZ</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=panalgin" title="Tests">⚠️</a> <a href="#projectManagement-panalgin" title="Project Management">📆</a> <a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/issues?q=author%3Apanalgin" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
