@@ -10,15 +10,6 @@ A streamlined [Tailwind CSS v3.x](https://tailwindcss.com) template for [Create 
 npx create-react-app --template tailwindcss-typescript
 ```
 
-### Note to self
-
-This is for myself or others trying to create from source code.
-
-```bash
-npx create-react-app tw3 --template file:/home/dance2die/src/github/dance2die/cra-template-tailwindcss-typescript
-```
-
-
 ## Credits
 
 This project was made possible thanks to the following projects.

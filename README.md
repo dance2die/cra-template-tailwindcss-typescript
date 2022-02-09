@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A streamlined [Tailwind CSS v2.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+A streamlined [Tailwind CSS v3.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
 
 ## Usage
 
@@ -12,23 +12,14 @@ A streamlined [Tailwind CSS v2.0](https://tailwindcss.com) template for [Create 
 npx create-react-app my-app --template tailwindcss-typescript
 ```
 
-### Experimental JIT mode
+### Note to self
 
-You can enable [Just-in-Time "JIT" mode](https://tailwindcss.com/docs/just-in-time-mode) by uncommenting `mode: "jit"` in `tailwind.config.js`.
+This is for myself or others trying to create from source code.
 
-**IMPORTANT**: Do **NOT** comment `purge` when you enable JIT mode, [otherwise your CSS will be empty!](https://tailwindcss.com/docs/just-in-time-mode#enabling-jit-mode)
-
-```js
-module.exports = {
-  // Uncomment the line below to enable the experimental Just-in-Time ("JIT") mode.
-  // 👇👇👇👇👇
-  // mode: "jit",
-  theme: {
-    extend: {},
-  },
-  // other options...
-};
+```bash
+npx create-react-app tw3 --template file:/home/dance2die/src/github/dance2die/cra-template-tailwindcss-typescript
 ```
+
 
 ## Credits
 
