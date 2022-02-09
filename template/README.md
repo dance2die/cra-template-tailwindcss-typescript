@@ -1,6 +1,6 @@
 # cra-template-tailwindcss-typescript
 
-A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+A streamlined [Tailwind CSS v3.x](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
 
 > This template installs and sets up [Tailwind CSS](https://tailwindcss.com) with TypeScript support.
 
@@ -9,6 +9,15 @@ A streamlined [Tailwind CSS](https://tailwindcss.com) template for [Create React
 ```bash
 npx create-react-app --template tailwindcss-typescript
 ```
+
+### Note to self
+
+This is for myself or others trying to create from source code.
+
+```bash
+npx create-react-app tw3 --template file:/home/dance2die/src/github/dance2die/cra-template-tailwindcss-typescript
+```
+
 
 ## Credits
 
