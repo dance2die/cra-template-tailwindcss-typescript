@@ -53,6 +53,15 @@
         "projectManagement",
         "bug"
       ]
+    },
+    {
+      "login": "arye-eidelman",
+      "name": "Arye Eidelman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7709411?v=4",
+      "profile": "https://www.aryeeidelman.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
