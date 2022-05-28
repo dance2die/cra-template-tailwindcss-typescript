@@ -1,7 +1,9 @@
 # cra-template-tailwindcss-typescript
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A streamlined [Tailwind CSS v3.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
@@ -14,12 +16,29 @@ npx create-react-app my-app --template tailwindcss-typescript
 
 ### Note to self
 
-This is for myself or others trying to create from source code.
+_This is for myself or others trying to create from source code._
+
+Prepare the husky, pre-github hook
+
+```bash
+npm run prepare
+```
+
+Create a new create-react-app project from my source code
 
 ```bash
 npx create-react-app tw3 --template file:/home/dance2die/src/github/dance2die/cra-template-tailwindcss-typescript
 ```
 
+If you didn't run `npm run prepare` from the source code, you will get an error like this,
+
+```
+sh: husky: command not found
+npm ERR! code 127
+npm ERR! path /Users/X/Desktop/Workspace/project
+npm ERR! command failed
+npm ERR! command sh -c husky install
+```
 
 ## Credits
 
