@@ -3,14 +3,14 @@ lockfileVersion: 5.4
 specifiers:
   commitizen: ^4.2.4
   cz-conventional-changelog: 3.3.0
-  git-cz: ^4.7.6
-  husky: ^6.0.0
+  git-cz: ^4.9.0
+  husky: ^8.0.1
 
 devDependencies:
   commitizen: 4.2.4
   cz-conventional-changelog: 3.3.0
   git-cz: 4.9.0
-  husky: 6.0.0
+  husky: 8.0.1
 
 packages:
 
@@ -568,8 +568,9 @@ packages:
       parse-passwd: 1.0.0
     dev: true
 
-  /husky/6.0.0:
-    resolution: {integrity: sha512-SQS2gDTB7tBN486QSoKPKQItZw97BMOd+Kdb6ghfpBc0yXyzrddI0oDV5MkDAbuB4X2mO3/nj60TRMcYxwzZeQ==}
+  /husky/8.0.1:
+    resolution: {integrity: sha512-xs7/chUH/CKdOCs7Zy0Aev9e/dKOMZf3K1Az1nar3tzlv0jfqnYtu235bstsWTmXOR0EfINrPa97yy4Lz6RiKw==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: true
 

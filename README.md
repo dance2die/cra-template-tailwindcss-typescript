@@ -24,6 +24,14 @@ Prepare the husky, pre-github hook
 npm run prepare
 ```
 
+Install `git-cz` globally
+
+```
+pnpm i -g git-cz
+# or
+npm i -g git-cz
+```
+
 Create a new create-react-app project from my source code
 
 ```bash

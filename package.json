@@ -37,8 +37,8 @@
 	"devDependencies": {
 		"commitizen": "^4.2.4",
 		"cz-conventional-changelog": "3.3.0",
-		"git-cz": "^4.7.6",
-		"husky": "^6.0.0"
+		"git-cz": "^4.9.0",
+		"husky": "^8.0.1"
 	},
 	"config": {
 		"commitizen": {
