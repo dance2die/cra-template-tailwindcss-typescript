@@ -20,7 +20,7 @@ function App() {
         </svg>
       </div>
       <p className="mt-6 tracking-wide">
-        Edit <code>src/App.jsx</code> and save to reload.
+        Edit <code>src/App.tsx</code> and save to reload.
       </p>
       <div className="flex justify-center mt-4">
         <a
