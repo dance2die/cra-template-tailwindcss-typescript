@@ -1,9 +1,7 @@
 # cra-template-tailwindcss-typescript
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A streamlined [Tailwind CSS v3.0](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
@@ -75,6 +73,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/panalgin"><img src="https://avatars.githubusercontent.com/u/12881878?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mustafa YILDIZ</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=panalgin" title="Tests">⚠️</a> <a href="#projectManagement-panalgin" title="Project Management">📆</a> <a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/issues?q=author%3Apanalgin" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://www.aryeeidelman.com/"><img src="https://avatars.githubusercontent.com/u/7709411?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Arye Eidelman</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=arye-eidelman" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ptaberg"><img src="https://avatars.githubusercontent.com/u/34740585?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kolja P.</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=ptaberg" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/SaminYaser-work"><img src="https://avatars.githubusercontent.com/u/40205522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samin Yaser</b></sub></a><br /><a href="https://github.com/dance2die/cra-template-tailwindcss-typescript/commits?author=SaminYaser-work" title="Code">💻</a></td>
   </tr>
 </table>
 
