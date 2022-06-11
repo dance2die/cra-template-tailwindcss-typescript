@@ -1,6 +1,6 @@
 # cra-template-tailwindcss-typescript
 
-A streamlined [Tailwind CSS v3.x](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
+A streamlined [Tailwind CSS v3.1](https://tailwindcss.com) template for [Create React App](https://github.com/facebook/create-react-app) in [TypeScript](https://www.typescriptlang.org/).
 
 > This template installs and sets up [Tailwind CSS](https://tailwindcss.com) with TypeScript support.
 
